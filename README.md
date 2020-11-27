@@ -1,3 +1,1 @@
-# js-64ooxh
-
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/js-64ooxh)
+UI Assingment Part - 2 with Javascript
